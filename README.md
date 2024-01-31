@@ -1,1 +1,1 @@
-# samp-source
+# omp-source
